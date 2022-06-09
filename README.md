@@ -1,0 +1,2 @@
+# Creez-et-utilisez-une-base-de-donnees-immobili-re-avec-SQL
+Projet réalisé dans le cadre de la formation en data analyst réalisée par OpenClassrooms en partenariat avec l'ENSAE. Compétences mises en exergue: Effectuer des requêtes SQL de base; Charger des données dans une base de données; Créer des tables dans une base de données;   Créer le schéma d'une base de données;  Mettre à jour un catalogue de données.
